@@ -1,7 +1,7 @@
 # Today-I-Read ![Static Badge](https://img.shields.io/badge/in%20progress-red)
 
 Working on it... I will update this README file as I progress.
-Current version is not working properly. 
+Current version(v2.0.0) is partially working. 
 
 Today-I-Read is a simple mobile friendly website that allows you to create sharable image to use on social media after reading a book on a daily basis. 
 
