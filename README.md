@@ -19,6 +19,23 @@ I used React as the main framework for the website. This is my first time using 
 ### Motivation
 When I read the book, I wanted to share my reading progress on social media. However, I found it difficult to create a visually appealing image that reflects my reading progress. 밀리의 서재 has a feature that I wanted to use, so I used it as a reference. However, I could now use it if the book is not available on the platform. Therefore, I decided to create a website that has a similar feature. I hope this website will be useful for people who want to share their reading progress on social media.
 
+### Color Scheme
+I am working on this project in Starbucks. Therefore, I decided to use their color scheme. Also, in 2024 Autumn in South Korea, Starbucks introduced new merch collaborated with Penguine Random House. This collaboration also matches the feel of books I wanted.
+![Starbucks Color Scheme](https://creative.starbucks.com/color/)
+
+### Fonts
+I used Pretendard font because when I worked on other project with the designer, she used Pretendard font for the most of the time.
+
+### Low-Fidelity Wireframe
+I took the course about how to use Figma. I haven't finished the course, however I went through enough to know how to create wirefrmae using Figma.
+
+I referenced Toss's main page. I used the island like structure to add components on the screen. Also, I used the menu bar in Toss's main page as the export button location.
+
+For the rounding of the island component, I used Apple's round rectangle
+
+I referenced Apple's app list for book listing in the search page.
+
+I referenced Starbucks' mobile website slide out menu for the menu page.
 
 ### Credits
 [밀리의 서재](https://www.millie.co.kr/) - 2024 밀리 독서 마라톤 이미지 생성 페이지
@@ -27,3 +44,8 @@ When I read the book, I wanted to share my reading progress on social media. How
 
 ### License
 Today-I-Read is [MIT Licensed](./LICENSE).
+
+### Tools and Pages I used / referenced
+![imagecolorpicker.com](https://imagecolorpicker.com)
+
+![Starbucks Color Scheme](https://creative.starbucks.com/color/)
